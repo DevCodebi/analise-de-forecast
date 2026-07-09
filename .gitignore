@@ -1,0 +1,5 @@
+env_analise_forecast/
+credentials/
+*.json
+.ipynb_checkpoints/
+data/
