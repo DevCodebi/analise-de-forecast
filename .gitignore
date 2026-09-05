@@ -3,3 +3,5 @@ credentials/
 *.json
 .ipynb_checkpoints/
 data/
+__pycache__/
+*.pyc
